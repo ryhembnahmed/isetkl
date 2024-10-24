@@ -1,4 +1,4 @@
-### **SOA CI (Service-Oriented Architecture - Cours Théorique)**
+### **SOA CI (Service-Oriented Architecture)**
 
 - **Chapitre 1 :** Technologies XML/JSON
   - Introduction aux formats de données XML et JSON, leur utilisation dans les systèmes distribués.
