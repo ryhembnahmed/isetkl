@@ -12,7 +12,8 @@
 
 - **Chapitre 3 :** Modèles et architectures orientées services
   - Introduction à SOAP (Simple Object Access Protocol), 
-  - Introduction au REST (Representational State Transfer) et GraphQL.
+  - Introduction au REST (Representational State Transfer).
+  - Introduction au GraphQL.
 
 - **Chapitre 4 :** Services Web SOAP
   - Développement et intégration des services SOAP.
