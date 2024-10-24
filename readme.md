@@ -11,7 +11,8 @@
     - Microservices
 
 - **Chapitre 3 :** Modèles et architectures orientées services
-  - Introduction à SOAP (Simple Object Access Protocol), REST (Representational State Transfer) et GraphQL.
+  - Introduction à SOAP (Simple Object Access Protocol), 
+  - Introduction au REST (Representational State Transfer) et GraphQL.
 
 - **Chapitre 4 :** Services Web SOAP
   - Développement et intégration des services SOAP.
@@ -31,18 +32,18 @@
 
 - **TP 2 :** Services Web SOAP (Exemple métier : Informations sur les pays)
   - a) Créer un client SOAP en utilisant Python/Postman
-    - [Tutoriel](https://www.geeksforgeeks.org/making-soap-api-calls-using-python/)
+    - [client SOAP en Python ](https://www.geeksforgeeks.org/making-soap-api-calls-using-python/)
   - b) Créer un serveur et un client SOAP avec Python/POSTMAN
-    - [Webservice avec Web.py](https://webpy.org/cookbook/webservice)
-    - [Blog sur SOAP en Python](https://apidog.com/blog/python-working-with-soap-api/)
+    - [SOAP en Python - 1 ](https://webpy.org/cookbook/webservice)
+    - [SOAP en Python - 2 ](https://apidog.com/blog/python-working-with-soap-api/)
 
 - **TP 3 :** Services REST (Exemple métier : Météo)
-  - a) Créer un client REST en utilisant Python/Postman.
-  - b) Créer un serveur REST (FLASK) et un client avec Python/Angular/Postman.
+  - a) Créer un client REST en utilisant Postman.
+  - b) Créer un serveur REST (FLASK) et un client avec Python/Angular.
 
 - **TP 4 :** Services GraphQL (Exemple métier : Géolocalisation)
-  - a) Créer un client GraphQL avec Python/Postman.
-  - b) Créer un serveur (FLASK) et un client avec Python/Angular/Postman.
+  - a) Créer un client GraphQL avec Postman.
+  - b) Créer un serveur (FLASK) et un client avec Python/Angular.
 
 ---
 
@@ -69,5 +70,3 @@
 - **Mini-projet :** Choix d'une méthode, application de DevOps.
 
 ---
-
-Cela te semble-t-il suffisant pour commencer ?
